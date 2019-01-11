@@ -60,7 +60,7 @@ _为什么要做公民教育 Civics Education?_
 
 
 ## 相关连接
-1. 题目来源:珍妮弗•潘(Jennifer Pan)和Yiqing Xu联合发表的论文[《中国的意识形态光谱》（China’s Ideological Spectrum）](http://jenpan.com/jen_pan/ideology.pdf)
+1. 题目来源:[Jennifer Pan, Yiqing Xu, "China’s Ideological Spectrum"（《中国的意识形态光谱》）](http://jenpan.com/jen_pan/ideology.pdf)
 2. 中国政治坐标[测试网站](http://zuobiao.me/)
 3. 2014年共有171830位网民参与了测试 [调查数据分析](https://blog.xavierskip.com/2015-05-03-politics-coordinate/)
 4. [Center for Civic Education](http://www.civiced.org/)

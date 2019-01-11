@@ -22,7 +22,7 @@ _为什么要做公民教育 Civics Education?_
 13. 当法律为能充分制止罪恶行为时，人民群众有权自发对罪恶行为进行制裁
 14. 应当允许媒体代表某一特定阶层或利益集团发言
 15. 如果国家综合实力许可，那么中国有权为了维护自己的利益而采取任何行动
-16. 条件允许的话应该无力统一台湾
+16. 条件允许的话应该武力统一台湾
 17. 律师即使明知被辩护人的犯罪事实也应当尽力为其进行辩护
 18. 应该允许中国公民同时具有外国国籍
 19. 以美国为首的西方国家不可能真正允许中国崛起成为一流强国
@@ -54,13 +54,13 @@ _为什么要做公民教育 Civics Education?_
 45. 即使有人口压力，国家和社会也无权干涉个人要不要孩子，要几个孩子
 46. 周易八卦能够有效的解释很多事情
 47. [中国传统医学对人体健康的观念比现代主流医学更高明](https://pincong.rocks/question/1230)
-48. 汉字无需认为推行简化
+48. 汉字无需人为推行简化
 49. 应当将中国传统文化的经典作品作为儿童基础教育读物
 50. 如果是出于自愿，我会认可我的孩子和同性结成伴侣关系 
 
 
 ## 相关连接
-1. 题目来源:哈佛大学生珍妮弗•潘(Jennifer Pan)和加州大学圣迭戈分校Yiqing Xu联合发表的论文[《中国的意识形态光谱》（China’s Ideological Spectrum）](http://jenpan.com/jen_pan/ideology.pdf)。
+1. 题目来源:珍妮弗•潘(Jennifer Pan)和Yiqing Xu联合发表的论文[《中国的意识形态光谱》（China’s Ideological Spectrum）](http://jenpan.com/jen_pan/ideology.pdf)
 2. 中国政治坐标[测试网站](http://zuobiao.me/)
 3. 2014年共有171830位网民参与了测试 [调查数据分析](https://blog.xavierskip.com/2015-05-03-politics-coordinate/)
 4. [Center for Civic Education](http://www.civiced.org/)

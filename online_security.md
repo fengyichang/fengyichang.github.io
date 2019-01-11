@@ -1,8 +1,8 @@
 本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中
 
-* 安全意识
-* 安全技术
-* 相关资源
+* [安全意识](#【安全意识】)
+* [安全技术](#【安全技术】)
+* [相关资源](#【相关资源】)
 
 ## 【安全意识】
 
@@ -38,13 +38,13 @@
 
 编程随想 翻墙技术专栏 https://program-think.blogspot.com/
 
-    “对抗专制、捍卫自由”的 N 种技术力量 https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html 
-    如何防止黑客入侵(系列) https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html 
-    如何保护隐私(系列) https://program-think.blogspot.com/2013/06/privacy-protection-0.html 
-    如何隐藏你的踪迹，避免跨省追捕(系列) https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html&nbsp;
-    扫盲操作系统虚拟机(系列) https://program-think.blogspot.com/2012/10/system-vm-0.html 
-    TrueCrypt 的扫盲教程和高级教程 https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index 
-    文件加密的扫盲介绍 https://program-think.blogspot.com/2011/05/file-encryption-overview.html 
-    文件备份技巧：组合”虚拟加密盘”和”网盘” https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html  
-    扫盲文件完整性校验——关于散列值和数字签名 https://program-think.blogspot.com/2013/02/file-integrity-check.html  
-    社会工程学扫盲(系列) https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html
+    1. “对抗专制、捍卫自由”的 N 种技术力量 https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html 
+    2. 如何防止黑客入侵(系列) https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html 
+    3. 如何保护隐私(系列) https://program-think.blogspot.com/2013/06/privacy-protection-0.html 
+    4. 如何隐藏你的踪迹，避免跨省追捕(系列) https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html&nbsp;
+    5. 扫盲操作系统虚拟机(系列) https://program-think.blogspot.com/2012/10/system-vm-0.html 
+    6. TrueCrypt 的扫盲教程和高级教程 https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index 
+    7. 文件加密的扫盲介绍 https://program-think.blogspot.com/2011/05/file-encryption-overview.html 
+    8. 文件备份技巧：组合”虚拟加密盘”和”网盘” https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html  
+    9. 扫盲文件完整性校验——关于散列值和数字签名 https://program-think.blogspot.com/2013/02/file-integrity-check.html  
+    10. 社会工程学扫盲(系列) https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html

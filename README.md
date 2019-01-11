@@ -67,3 +67,7 @@ _参与讨论有什么好处?_
 3. 2014年,共有171830位网民参与了测试, [调查数据分析](https://blog.xavierskip.com/2015-05-03-politics-coordinate/)
 4. http://www.civiced.org/
 5. http://www.nea.org/civicseducation
+
+## 推荐阅读
+1. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf)
+2. [一场风的博客](yichangfeng.home.blog)

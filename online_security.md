@@ -1,6 +1,6 @@
 # [fengyichang.github.io](fengyichang.github.io)
 
-本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中
+本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中，最近更新日期 2019/1/11
 
 目录
 * [安全意识](#mindset)

@@ -48,6 +48,6 @@ https://program-think.blogspot.com/
 5. [扫盲操作系统虚拟机(系列)](https://program-think.blogspot.com/2012/10/system-vm-0.html) 
 6. [TrueCrypt 的扫盲教程和高级教程](https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index) 
 7. [文件加密的扫盲介绍](https://program-think.blogspot.com/2011/05/file-encryption-overview.html) 
-8. [文件备份技巧：组合”虚拟加密盘”和”网盘”](https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html  
+8. [文件备份技巧：组合”虚拟加密盘”和”网盘”](https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html)  
 9. [扫盲文件完整性校验——关于散列值和数字签名](https://program-think.blogspot.com/2013/02/file-integrity-check.html)  
 10. [社会工程学扫盲(系列)](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)

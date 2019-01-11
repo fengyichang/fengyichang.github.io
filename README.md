@@ -1,4 +1,4 @@
-# 公民教育 Civic Education
+# 公民教育 Civic Education | [fengyichang.github.io](https://fengyichang.github.io)
 培养和提高批判性思考的能力，启发对社会议题的思考
 
 _为什么要做公民教育?_

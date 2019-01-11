@@ -1,10 +1,11 @@
 本文内容部分由多位[品葱](https://pincong.rocks)用户贡献，经[本人](yichangfeng.home.blog)搜集整理。持续更新中
 
-* [安全意识](#【安全意识】)
-* [安全技术](#【安全技术】)
-* [相关资源](#【相关资源】)
+目录
+* [安全意识](#mindset)
+* [安全技术](#techniques)
+* [相关资源](#resources)
 
-## 【安全意识】
+## 【安全意识】<a name="mindset"></a>
 
 翻墙，掉脑袋的事，千万别嫌麻烦！为保障安全上网，你需要付出额外劳动、时间、金钱，也要牺牲一定用户体验，具体的代价跟你对安全等级的要求成正比。根据你在墙外的活动对朝廷造成的威胁等级，可分为以下三类：
 
@@ -15,7 +16,7 @@
 总之只要你想自由表达就不可避免的对朝廷造成2、3等级的威胁，因此请务必把自己练成‘编程随想’那样无法跟踪的高手，认真学习网络安全知识和技术，千万别怕麻烦。
 
 另外，虞超先生就使用社交媒体时的安全意识，进行了[详细阐述](http://www.epochtimes.com/gb/16/5/2/n7795513.htm)
-## 【安全技术】
+## 【安全技术】<a name="techniques"></a>
 
 请自行判断所列技术，没有绝对的安全
 
@@ -32,19 +33,19 @@
 11. 此外, 再推荐几个相对安全的应用; MEGA (https://mega.nz/)  是一个加密的云盘. Tor (https://www.torproject.org/)  是一个高度匿名的浏览器, 但是也可能会遇到蜜罐节点. WIRE (https://wire.com)  是一个开源的, 加密的聊天应用, 在网页上注册不需要电话号码. Telegram (https://telegram.org/)  是一个用户多, 功能全的聊天应用, 也具有加密功能, 但是加密聊天并不默认开启, 而且只能使用电话号码注册; 用加密聊天软件 unseen (https://unseen.is/)
 12. 除此之外, 你的输入法也可能被用来监视你, 因此不推荐使用国产的输入法.
 
-## 【相关资源】
+## 【相关资源】<a name="resources"></a>
 
 隐私工具-加密安全对抗全球大规模监控 https://cybermagicsec.github.io/privacytools-zh/
 
 编程随想 翻墙技术专栏 https://program-think.blogspot.com/
 
-    1. “对抗专制、捍卫自由”的 N 种技术力量 https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html 
-    2. 如何防止黑客入侵(系列) https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html 
-    3. 如何保护隐私(系列) https://program-think.blogspot.com/2013/06/privacy-protection-0.html 
-    4. 如何隐藏你的踪迹，避免跨省追捕(系列) https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html&nbsp;
-    5. 扫盲操作系统虚拟机(系列) https://program-think.blogspot.com/2012/10/system-vm-0.html 
-    6. TrueCrypt 的扫盲教程和高级教程 https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index 
-    7. 文件加密的扫盲介绍 https://program-think.blogspot.com/2011/05/file-encryption-overview.html 
-    8. 文件备份技巧：组合”虚拟加密盘”和”网盘” https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html  
-    9. 扫盲文件完整性校验——关于散列值和数字签名 https://program-think.blogspot.com/2013/02/file-integrity-check.html  
-    10. 社会工程学扫盲(系列) https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html
+    1. [“对抗专制、捍卫自由”的 N 种技术力量](https://program-think.blogspot.com/2015/08/Technology-and-Freedom.html) 
+    2. [如何防止黑客入侵(系列)](https://program-think.blogspot.com/2010/06/howto-prevent-hacker-attack-0.html) 
+    3. [如何保护隐私(系列)](https://program-think.blogspot.com/2013/06/privacy-protection-0.html) 
+    4. [如何隐藏你的踪迹，避免跨省追捕(系列)](https://program-think.blogspot.com/2010/04/howto-cover-your-tracks-0.html&nbsp;)
+    5. [扫盲操作系统虚拟机(系列)](https://program-think.blogspot.com/2012/10/system-vm-0.html) 
+    6. [TrueCrypt 的扫盲教程和高级教程](https://program-think.blogspot.com/2011/05/recommend-truecrypt.html#index) 
+    7. [文件加密的扫盲介绍](https://program-think.blogspot.com/2011/05/file-encryption-overview.html) 
+    8. [文件备份技巧：组合”虚拟加密盘”和”网盘”](https://program-think.blogspot.com/2013/07/online-backup-virtual-encrypted-disk.html  
+    9. [扫盲文件完整性校验——关于散列值和数字签名](https://program-think.blogspot.com/2013/02/file-integrity-check.html)  
+    10. [社会工程学扫盲(系列)](https://program-think.blogspot.com/2009/05/social-engineering-0-overview.html)

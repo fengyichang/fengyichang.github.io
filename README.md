@@ -1,7 +1,7 @@
 # fengyichang.github.io
 公民教育 Civics Education
 
-辩论题目列表
+## 辩论题目列表
 
 1. 如果人们没有受过民主教育，他们是不应该拥有普选权的
 2. 人权高于主权
@@ -55,7 +55,7 @@
 50. 如果是出于自愿，我会认可我的孩子和同性结成伴侣关系 
 
 
-##相关连接
+## 相关连接
 1. 题目来源:哈佛大学生珍妮弗•潘(Jennifer Pan)和麻省理工大学博士生Yiqing Xu联合发表了论文[《中国的意识形态光谱》（《China’s Ideological Spectrum》）](http://jenpan.com/jen_pan/ideology.pdf)。
 2. 中国政治坐标[测试网站](http://zuobiao.me/)
 3. 2014年,共有171830位网民参与了测试, [调查数据分析](https://blog.xavierskip.com/2015-05-03-politics-coordinate/)

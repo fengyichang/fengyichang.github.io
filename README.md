@@ -69,4 +69,4 @@ _为什么要做公民教育?_
 ## 推荐阅读
 1. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf)
 2. [编程随想的博客](https://program-think.blogspot.com/)
-2. [一场风的博客](yichangfeng.home.blog)
+2. [一场风的博客](https://yichangfeng.home.blog)

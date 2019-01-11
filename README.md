@@ -6,6 +6,7 @@ _为什么要做公民教育?_
 越多的人具备公民素质，政府就越难欺骗大家，人民才能行使越多本属于自己的权利。
 
 ## 辩论题目列表
+如果你在墙内，建议通过TorBrowser访问品葱参与讨论，查看更多[安全上网知识](./online_security.md)
 
 1. [如果人们没有受过民主教育，他们是不应该拥有普选权的](https://pincong.rocks/question/1223)
 2. [人权高于主权](https://pincong.rocks/question/1271)

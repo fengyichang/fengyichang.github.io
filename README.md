@@ -64,10 +64,11 @@ _参与讨论有什么好处?_
 ## 相关连接
 1. 题目来源:哈佛大学生珍妮弗•潘(Jennifer Pan)和加州大学圣迭戈分校Yiqing Xu联合发表的论文[《中国的意识形态光谱》（China’s Ideological Spectrum）](http://jenpan.com/jen_pan/ideology.pdf)。
 2. 中国政治坐标[测试网站](http://zuobiao.me/)
-3. 2014年,共有171830位网民参与了测试, [调查数据分析](https://blog.xavierskip.com/2015-05-03-politics-coordinate/)
-4. http://www.civiced.org/
-5. http://www.nea.org/civicseducation
+3. 2014年共有171830位网民参与了测试 [调查数据分析](https://blog.xavierskip.com/2015-05-03-politics-coordinate/)
+4. [Center for Civic Education](http://www.civiced.org/)
+5. ['Civics Education: Learning About the Rights & Obligations of Citizenship,' NEA.](http://www.nea.org/civicseducation)
 
 ## 推荐阅读
 1. [张博树：中国宪政改革可行性研究报告(全文)](http://minzhuzhongguo.org/sz/report.pdf)
+2. [编程随想的博客](https://program-think.blogspot.com/)
 2. [一场风的博客](yichangfeng.home.blog)
